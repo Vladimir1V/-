@@ -1,0 +1,13 @@
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab3\Lab3\obj\Debug\Lab3.pdb

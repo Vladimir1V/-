@@ -1,0 +1,32 @@
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1 - копия\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1 - копия\Lab1\obj\Debug\Lab1.exe
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1 - копия\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1 - копия\Lab1\bin\Debug\Lab1.exe
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1 - копия\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1 - копия\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1_with_class\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1_with_class\Lab1\obj\Debug\Lab1.exe
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1_with_class\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1_with_class_and_edit\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1_with_class_and_edit\Lab1\obj\Debug\Lab1.exe
+C:\Users\Сергей\Desktop\ПнаЯВУ\Lab1_with_class_and_edit\Lab1\obj\Debug\Lab1.pdb
+C:\Users\DEXP\Desktop\PnaYVU-master\Lab1_with_class_and_edit\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\DEXP\Desktop\PnaYVU-master\Lab1_with_class_and_edit\Lab1\bin\Debug\Lab1.exe
+C:\Users\DEXP\Desktop\PnaYVU-master\Lab1_with_class_and_edit\Lab1\bin\Debug\Lab1.pdb
+C:\Users\DEXP\Desktop\PnaYVU-master\Lab1_with_class_and_edit\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\DEXP\Desktop\PnaYVU-master\Lab1_with_class_and_edit\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\DEXP\Desktop\PnaYVU-master\Lab1_with_class_and_edit\Lab1\obj\Debug\Lab1.exe
+C:\Users\DEXP\Desktop\PnaYVU-master\Lab1_with_class_and_edit\Lab1\obj\Debug\Lab1.pdb
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\DEXP\Desktop\пнаяву\лабы\Lab1\Lab1\obj\Debug\Lab1.pdb
